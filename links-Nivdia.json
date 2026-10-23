@@ -1,0 +1,22 @@
+{
+    // B1_02 软件环境部署 → "机智罗的仓库" 标签页
+    "repo_jzl":       "https://pan.quark.cn/s/45cb6646134e",
+
+    // B0 本地全局设置 → "获取便携版包" 按钮
+    "repo_portable":  "https://pan.quark.cn/s/3d212a90e4bc",
+
+    // C0 工作流管理 → "下载高质量工作流" 按钮
+    "repo_workflows": "https://pan.quark.cn/s/c8fbfa9b0717",
+
+    // C0 工作流管理 → "前往夸克下载模型" 按钮
+    "repo_models_quark": "https://pan.quark.cn/s/d5531e58e286",
+
+    // C0 工作流管理 → "前往百度下载模型" 按钮
+    "repo_models_baidu": "",
+
+    "xb_toolbox_version": "0.10.06",
+
+    "remote_version": "Nvidia1.0.6",
+    
+    "version_video": "https://www.bilibili.com/video/BV1WGp26cEXL"
+}
